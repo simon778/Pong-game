@@ -1,5 +1,5 @@
 # Pong-game
-Simple game with two paddles and one ball. The ball can't fall out of the screen.
+Simple game with two paddles and one ball. The ball can't fall of the screen.
 
  Player 1:
  down-key: S
